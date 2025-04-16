@@ -4,6 +4,12 @@
 * dependencies
 * lcat bumped from 0.7.11 to 0.7.12
 
+## [0.5.12](https://github.com/davidkna/lcat-rs/compare/lcowsay-v0.5.11...lcowsay-v0.5.12) - 2025-04-16
+
+### Other
+
+- *(deps)* update rust crate clap to 4.5.36
+
 ## [0.5.11](https://github.com/davidkna/lcat-rs/compare/lcowsay-v0.5.10...lcowsay-v0.5.11) - 2025-04-02
 
 ### Other
